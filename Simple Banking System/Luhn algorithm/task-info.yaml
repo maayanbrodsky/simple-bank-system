@@ -189,5 +189,163 @@ files:
         BankingSystem('banking.banking').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/109/stages/592/implement#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #5
+
+    The card number '4000007186967068' doesn't pass luhn algorithm!
+
+    Please find below the output of your program during this failed test.
+    Note that the '>' character indicates the beginning of the input line.
+
+    ---
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    42
+    8
+    Your card has been created
+    Your card number:
+    4000007186967068
+    Your card PIN:
+    6090
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    54
+    6
+    Your card has been created
+    Your card number:
+    4000002983999216
+    Your card PIN:
+    9471
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    40
+    0
+    Your card has been created
+    Your card number:
+    4000002821870850
+    Your card PIN:
+    3031
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    32
+    8
+    Your card has been created
+    Your card number:
+    4000005224981158
+    Your card PIN:
+    5549
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    30
+    0
+    Your card has been created
+    Your card number:
+    4000001509118020
+    Your card PIN:
+    2499
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    51
+    9
+    Your card has been created
+    Your card number:
+    4000005688293769
+    Your card PIN:
+    8222
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    62
+    8
+    Your card has been created
+    Your card number:
+    4000003989197888
+    Your card PIN:
+    9749
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    28
+    2
+    Your card has been created
+    Your card number:
+    4000002350938102
+    Your card PIN:
+    9442
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    42
+    8
+    Your card has been created
+    Your card number:
+    4000009566503448
+    Your card PIN:
+    9359
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    55
+    5
+    Your card has been created
+    Your card number:
+    4000002477854935
+    Your card PIN:
+    6035
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+
+    > 1
+    39
+    1
+    Your card has been created
+    Your card number:
+    4000006465546791
+    Your card PIN:
+    8223
+
+    1. Create an account
+    2. Log into account
+    0. Exit
+  time: Thu, 29 Apr 2021 00:42:47 UTC
 record: -1
